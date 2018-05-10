@@ -1,0 +1,15 @@
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\bin\Debug\BDLocal.mdf
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\bin\Debug\BDLocal_log.ldf
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\bin\Debug\Prueba_BDLocal.exe.config
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\bin\Debug\Prueba_BDLocal.exe
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\bin\Debug\Prueba_BDLocal.pdb
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\obj\Debug\Prueba_BDLocal.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\obj\Debug\Prueba_BDLocal.Properties.Resources.resources
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\obj\Debug\Prueba_BDLocal.csproj.GenerateResource.Cache
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\obj\Debug\Prueba_BDLocal.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\obj\Debug\Prueba_BDLocal.exe
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\obj\Debug\Prueba_BDLocal.pdb
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\obj\Debug\Prueba_BDLocal.Form1.resources
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\obj\Debug\Prueba_BDLocal.AltaNueva.resources
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\obj\Debug\Prueba_BDLocal.Borrar.resources
+D:\PROYECTOS\Prueba_BDLocal\Prueba_BDLocal\obj\Debug\Prueba_BDLocal.Search.resources
